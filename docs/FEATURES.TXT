@@ -1,0 +1,9 @@
+BASIC FEATURES:
+ - Users can sign up and sign in 
+ - Users can comment for each post
+   - If user is not signed in show the link to be signed in
+ - Search for posts, through title
+ - Social media integration
+ - Menu navigation
+ - Category of posts
+ - 

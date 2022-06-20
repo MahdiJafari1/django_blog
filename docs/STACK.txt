@@ -1,0 +1,6 @@
+ - Pytest + unit testing
+ - Docker 
+ - Pre-commit
+ - Pipenv
+ - Bootstrap
+ - Heroku
